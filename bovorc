@@ -1,0 +1,11 @@
+[Game]
+Losses=0
+Wins=3
+
+[KgDifficulty]
+Level=Medium
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAABVYAAAJwAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Window-Maximized 768x1366=true

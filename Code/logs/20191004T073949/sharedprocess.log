@@ -1,0 +1,13 @@
+[2019-10-04 07:39:52.587] [sharedprocess] [info] main {"machineId":"bac4a5650e488ad891d8a9095dd63a576bb28f26f5b736358b974fa2e8284f5d"}
+[2019-10-04 07:40:32.582] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-10-04 07:40:43.689] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2019-10-04 07:40:45.076] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/b51b32df-d8ea-4f48-8a8c-2f093c1c38bf
+[2019-10-04 07:40:46.448] [sharedprocess] [info] Extracted extension to /home/mohammed/.vscode/extensions/.ms-vscode.cpptools-0.25.1: ms-vscode.cpptools
+[2019-10-04 07:40:46.448] [sharedprocess] [info] Renamed to /home/mohammed/.vscode/extensions/ms-vscode.cpptools-0.25.1
+[2019-10-04 07:40:46.454] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-10-04 07:40:46.516] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2019-10-04 07:41:22.538] [sharedprocess] [info] Installing the extension: ms-vscode.cpptools
+[2019-10-04 07:41:24.775] [sharedprocess] [info] Extracted extension to /home/mohammed/.vscode/extensions/.ms-vscode.cpptools-0.26.0-insiders2: ms-vscode.cpptools
+[2019-10-04 07:41:24.777] [sharedprocess] [info] Renamed to /home/mohammed/.vscode/extensions/ms-vscode.cpptools-0.26.0-insiders2
+[2019-10-04 07:41:24.780] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-10-04 07:41:24.851] [sharedprocess] [info] Successfully installed the extension: ms-vscode.cpptools

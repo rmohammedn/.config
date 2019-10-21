@@ -1,0 +1,8 @@
+open_with 
+cd 
+scout -aefiklst 
+shell 
+cd
+pwd
+wq
+w
